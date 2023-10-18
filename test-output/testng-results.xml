@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T19:48:01 IST" name="Default suite" finished-at="2023-10-10T19:48:09 IST" duration-ms="8719">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T19:48:01 IST" name="Default test" finished-at="2023-10-10T19:48:09 IST" duration-ms="8719">
+      <class name="com.Instruction.AddInstF6646">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.Instruction.AddInstF6646@36ebc363]" started-at="2023-10-10T19:47:59 IST" name="beforeSuite" finished-at="2023-10-10T19:48:01 IST" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.Instruction.AddInstF6646@36ebc363]" started-at="2023-10-10T19:48:01 IST" name="beforeClass" finished-at="2023-10-10T19:48:02 IST" duration-ms="1817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="TestDatasetup()[pri:0, instance:com.Instruction.AddInstF6646@36ebc363]" started-at="2023-10-10T19:48:02 IST" name="TestDatasetup" finished-at="2023-10-10T19:48:03 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDatasetup -->
+        <test-method signature="MarketLaunchAndValidation()[pri:0, instance:com.Instruction.AddInstF6646@36ebc363]" started-at="2023-10-10T19:48:03 IST" name="MarketLaunchAndValidation" finished-at="2023-10-10T19:48:09 IST" duration-ms="6174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MarketLaunchAndValidation -->
+      </class> <!-- com.Instruction.AddInstF6646 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
